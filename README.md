@@ -1,0 +1,2 @@
+# jsExerciseOne
+ Practice JavaScript Exercise
